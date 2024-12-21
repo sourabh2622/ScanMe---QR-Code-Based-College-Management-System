@@ -1,0 +1,1 @@
+# ScanMe---QR-Code-Based-College-Management-System
